@@ -1,1 +1,3 @@
-// AWS Provider config will go here
+provider "aws" {
+  region = "eu-north-1"
+}
